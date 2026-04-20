@@ -3,7 +3,7 @@ name: "Advanced Data Structures PDF Exporter: Check Upstream Slides"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 */6 * * *'
+    - cron: '0 12 * * 1'
 
 permissions:
   contents: write
