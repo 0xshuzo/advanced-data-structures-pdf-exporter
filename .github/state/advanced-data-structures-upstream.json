@@ -1,1 +1,27 @@
-{}
+{
+  "checked_at": "2026-04-20T17:22:19.846531+00:00",
+  "course": "advanced-data-structures",
+  "decks": {
+    "advanced-data-structures": {
+      "output_filename": "advanced-data-structures-overview.pdf",
+      "slide_url": "https://curiouscoding.nl/teaching/advanced-data-structures/slides/",
+      "slug": "advanced-data-structures",
+      "source_path": "teaching/advanced-data-structures/advanced-data-structures.org",
+      "source_sha": "748c129483052e0e0c17e4e7a913524201341529",
+      "subtitle": "Summer semester 2026",
+      "title": "Advanced Data Structures"
+    },
+    "models-of-computation": {
+      "output_filename": "advanced-data-structures-models-of-computation.pdf",
+      "slide_url": "https://curiouscoding.nl/teaching/models-of-computation/slides/",
+      "slug": "models-of-computation",
+      "source_path": "teaching/models-of-computation/models-of-computation.org",
+      "source_sha": "79305385e5921bc0a5f1ee79ed6cf490d0d6d0ba",
+      "subtitle": "Advanced Data Structures -- Summer 2026",
+      "title": "Models of computation"
+    }
+  },
+  "fingerprint": "advanced-data-structures:748c129483052e0e0c17e4e7a913524201341529|models-of-computation:79305385e5921bc0a5f1ee79ed6cf490d0d6d0ba",
+  "upstream_branch": "master",
+  "upstream_repo": "RagnarGrootKoerkamp/research"
+}
