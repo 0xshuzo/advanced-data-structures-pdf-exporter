@@ -1,4 +1,4 @@
-name: Advanced Data Structures PDF Exporter: Check Upstream Slides
+name: "Advanced Data Structures PDF Exporter: Check Upstream Slides"
 
 on:
   workflow_dispatch:

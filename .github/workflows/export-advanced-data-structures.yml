@@ -1,4 +1,4 @@
-name: Advanced Data Structures PDF Exporter: Export PDFs
+name: "Advanced Data Structures PDF Exporter: Export PDFs"
 
 on:
   workflow_dispatch:
