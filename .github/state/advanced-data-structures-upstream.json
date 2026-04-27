@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-20T17:24:04.850047+00:00",
+  "checked_at": "2026-04-27T12:04:20.287053+00:00",
   "course": "advanced-data-structures",
   "decks": {
     "advanced-data-structures": {
@@ -7,21 +7,39 @@
       "slide_url": "https://curiouscoding.nl/teaching/advanced-data-structures/slides/",
       "slug": "advanced-data-structures",
       "source_path": "teaching/advanced-data-structures/advanced-data-structures.org",
-      "source_sha": "748c129483052e0e0c17e4e7a913524201341529",
+      "source_sha": "5bf758bae6d2d4cdfd9c2d94bdb8202f983dfb44",
       "subtitle": "Summer semester 2026",
       "title": "Advanced Data Structures"
+    },
+    "elias-fano": {
+      "output_filename": "elias-fano.pdf",
+      "slide_url": "https://curiouscoding.nl/teaching/elias-fano/slides/",
+      "slug": "elias-fano",
+      "source_path": "teaching/elias-fano/elias-fano.org",
+      "source_sha": "2d46c06bb3b18ecc9437e38404fb5b96f78fc98e",
+      "subtitle": "Advanced Data Structures -- Summer 2026 -- Lecture 2",
+      "title": "Elias-Fano coding"
     },
     "models-of-computation": {
       "output_filename": "advanced-data-structures-models-of-computation.pdf",
       "slide_url": "https://curiouscoding.nl/teaching/models-of-computation/slides/",
       "slug": "models-of-computation",
       "source_path": "teaching/models-of-computation/models-of-computation.org",
-      "source_sha": "79305385e5921bc0a5f1ee79ed6cf490d0d6d0ba",
-      "subtitle": "Advanced Data Structures -- Summer 2026",
+      "source_sha": "dd6be189193f8e18680ae102d467fd5c659fb9bd",
+      "subtitle": "Advanced Data Structures -- Summer 2026 -- Lecture 1",
       "title": "Models of computation"
+    },
+    "rank-select": {
+      "output_filename": "rank-select.pdf",
+      "slide_url": "https://curiouscoding.nl/teaching/rank-select/slides/",
+      "slug": "rank-select",
+      "source_path": "teaching/rank-select/rank-select.org",
+      "source_sha": "c1a02b989c650a6d0f537a6894c375dc76b4b9d1",
+      "subtitle": "Advanced Data Structures -- Summer 2026 -- Lecture 2",
+      "title": "Rank & Select"
     }
   },
-  "fingerprint": "advanced-data-structures:748c129483052e0e0c17e4e7a913524201341529|models-of-computation:79305385e5921bc0a5f1ee79ed6cf490d0d6d0ba",
+  "fingerprint": "advanced-data-structures:5bf758bae6d2d4cdfd9c2d94bdb8202f983dfb44|elias-fano:2d46c06bb3b18ecc9437e38404fb5b96f78fc98e|models-of-computation:dd6be189193f8e18680ae102d467fd5c659fb9bd|rank-select:c1a02b989c650a6d0f537a6894c375dc76b4b9d1",
   "upstream_branch": "master",
   "upstream_repo": "RagnarGrootKoerkamp/research"
 }
