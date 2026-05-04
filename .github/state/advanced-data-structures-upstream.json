@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-27T12:04:20.287053+00:00",
+  "checked_at": "2026-05-04T12:01:13.073877+00:00",
   "course": "advanced-data-structures",
   "decks": {
     "advanced-data-structures": {
@@ -16,7 +16,7 @@
       "slide_url": "https://curiouscoding.nl/teaching/elias-fano/slides/",
       "slug": "elias-fano",
       "source_path": "teaching/elias-fano/elias-fano.org",
-      "source_sha": "2d46c06bb3b18ecc9437e38404fb5b96f78fc98e",
+      "source_sha": "1b77073ad5718fd1a82ecd20c35eee31a519e004",
       "subtitle": "Advanced Data Structures -- Summer 2026 -- Lecture 2",
       "title": "Elias-Fano coding"
     },
@@ -25,7 +25,7 @@
       "slide_url": "https://curiouscoding.nl/teaching/models-of-computation/slides/",
       "slug": "models-of-computation",
       "source_path": "teaching/models-of-computation/models-of-computation.org",
-      "source_sha": "dd6be189193f8e18680ae102d467fd5c659fb9bd",
+      "source_sha": "a5a6f9bd734eeae0e9054fb2da00f7b011ef0403",
       "subtitle": "Advanced Data Structures -- Summer 2026 -- Lecture 1",
       "title": "Models of computation"
     },
@@ -34,12 +34,21 @@
       "slide_url": "https://curiouscoding.nl/teaching/rank-select/slides/",
       "slug": "rank-select",
       "source_path": "teaching/rank-select/rank-select.org",
-      "source_sha": "c1a02b989c650a6d0f537a6894c375dc76b4b9d1",
+      "source_sha": "867b067d93b18cb60d4e1fcfe5d477a989ed5df1",
       "subtitle": "Advanced Data Structures -- Summer 2026 -- Lecture 2",
       "title": "Rank & Select"
+    },
+    "succinct-trees": {
+      "output_filename": "succinct-trees.pdf",
+      "slide_url": "https://curiouscoding.nl/teaching/succinct-trees/slides/",
+      "slug": "succinct-trees",
+      "source_path": "teaching/succinct-trees/succinct-trees.org",
+      "source_sha": "717e3a331e90987b19d6d8dd484aa8f9ae56bbf8",
+      "subtitle": "Advanced Data Structures -- Summer 2026 -- Lecture 2",
+      "title": "Succinct trees"
     }
   },
-  "fingerprint": "advanced-data-structures:5bf758bae6d2d4cdfd9c2d94bdb8202f983dfb44|elias-fano:2d46c06bb3b18ecc9437e38404fb5b96f78fc98e|models-of-computation:dd6be189193f8e18680ae102d467fd5c659fb9bd|rank-select:c1a02b989c650a6d0f537a6894c375dc76b4b9d1",
+  "fingerprint": "advanced-data-structures:5bf758bae6d2d4cdfd9c2d94bdb8202f983dfb44|elias-fano:1b77073ad5718fd1a82ecd20c35eee31a519e004|models-of-computation:a5a6f9bd734eeae0e9054fb2da00f7b011ef0403|rank-select:867b067d93b18cb60d4e1fcfe5d477a989ed5df1|succinct-trees:717e3a331e90987b19d6d8dd484aa8f9ae56bbf8",
   "upstream_branch": "master",
   "upstream_repo": "RagnarGrootKoerkamp/research"
 }
